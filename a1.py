@@ -7,4 +7,8 @@
 
 x = 10
 y = 4
-answer = 
+answer = v
+answer = x + y
+
+print(answer)
+
